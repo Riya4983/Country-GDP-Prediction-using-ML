@@ -1,3 +1,6 @@
+
+<img width="967" alt="Screenshot 2023-05-05 at 2 40 35 PM" src="https://user-images.githubusercontent.com/129305827/236419968-e1013dcf-0460-4951-b673-4c30554d73f9.png">
+
 GDP prediction of Countries
 
 DATA SOURCE: 'Countries of The World' data set (from kaggle: Fernando Lasso: https://www.kaggle.com/fernandol/countries-of-the-world).
