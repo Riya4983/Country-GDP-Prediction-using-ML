@@ -12,3 +12,4 @@ Best results of Random Forest regression :
 - Mean Absolute Error (MAE): 2142.13
 - Root mean squared error (RMSE): 3097.19
 - R-squared Score (R2_Score): 0.8839
+![Alt text](/Users/riyasingh/Downloads/RF prediction.png
